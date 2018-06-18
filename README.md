@@ -1,2 +1,2 @@
-# SqlDataReaderDynamicMapping
-SqlDataReader Dynamic Mapping to custom model
+# SqlDataReader Dynamic Mapping
+SqlDataReader Dynamic Mapping to custom model.
