@@ -1,0 +1,11 @@
+E:\gitClone\SqlDataReaderDynamicMapping\Sln.DynamicMapping\DynamicMapping\bin\Debug\netcoreapp2.1\DynamicMapping.dll.config
+E:\gitClone\SqlDataReaderDynamicMapping\Sln.DynamicMapping\DynamicMapping\bin\Debug\netcoreapp2.1\DynamicMapping.deps.json
+E:\gitClone\SqlDataReaderDynamicMapping\Sln.DynamicMapping\DynamicMapping\bin\Debug\netcoreapp2.1\DynamicMapping.runtimeconfig.json
+E:\gitClone\SqlDataReaderDynamicMapping\Sln.DynamicMapping\DynamicMapping\bin\Debug\netcoreapp2.1\DynamicMapping.runtimeconfig.dev.json
+E:\gitClone\SqlDataReaderDynamicMapping\Sln.DynamicMapping\DynamicMapping\bin\Debug\netcoreapp2.1\DynamicMapping.dll
+E:\gitClone\SqlDataReaderDynamicMapping\Sln.DynamicMapping\DynamicMapping\bin\Debug\netcoreapp2.1\DynamicMapping.pdb
+E:\gitClone\SqlDataReaderDynamicMapping\Sln.DynamicMapping\DynamicMapping\obj\Debug\netcoreapp2.1\DynamicMapping.csproj.CoreCompileInputs.cache
+E:\gitClone\SqlDataReaderDynamicMapping\Sln.DynamicMapping\DynamicMapping\obj\Debug\netcoreapp2.1\DynamicMapping.AssemblyInfoInputs.cache
+E:\gitClone\SqlDataReaderDynamicMapping\Sln.DynamicMapping\DynamicMapping\obj\Debug\netcoreapp2.1\DynamicMapping.AssemblyInfo.cs
+E:\gitClone\SqlDataReaderDynamicMapping\Sln.DynamicMapping\DynamicMapping\obj\Debug\netcoreapp2.1\DynamicMapping.dll
+E:\gitClone\SqlDataReaderDynamicMapping\Sln.DynamicMapping\DynamicMapping\obj\Debug\netcoreapp2.1\DynamicMapping.pdb
